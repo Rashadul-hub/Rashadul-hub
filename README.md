@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rashadulislamhimu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vtCUvv56aYdP8It4DaKyXp4gVRY9HCNU/view?usp=share_link](https://drive.google.com/file/d/1vtCUvv56aYdP8It4DaKyXp4gVRY9HCNU/view?usp=share_link)
+- 📄 Know about my experiences https://cutt.ly/J0TcPMb
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
