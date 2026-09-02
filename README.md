@@ -1,32 +1,19 @@
-<!-- ═════════════ HEADER ═════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,35:2A0E61,70:7042F8,100:B49BFF&height=210&section=header&text=Rashadul%20Islam%20Himu&fontSize=46&fontColor=EDE4FF&fontAlignY=32&desc=App%20Developer%20%20%C2%B7%20%20Flutter%20%C2%B7%20Dart%20%C2%B7%20FastAPI&descAlignY=53&descSize=17" alt="header"/>
+<img width="100%" src="assets/hero.svg" alt="Rashadul Islam Himu — App Developer" />
 
 <div align="center">
 
-<a href="https://himu-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=3000&pause=800&color=B49BFF&center=true&vCenter=true&width=640&lines=Flutter+%26+Dart+Developer;FastAPI+%2B+PostgreSQL+on+the+backend;Android+with+Kotlin+%26+Jetpack+Compose;Enterprise+field-force+%26+tracking+apps" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<a href="https://himu-dev.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-himu--dev.vercel.app-7042F8?style=for-the-badge&labelColor=030014" alt="Portfolio" /></a>
-<a href="mailto:rashadulislamhimu@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20Email-Contact%20me-B49BFF?style=for-the-badge&labelColor=030014" alt="Email" /></a>
-
-<br>
+<a href="https://himu-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-himu--dev.vercel.app-7042F8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio" /></a>
+<a href="mailto:rashadulislamhimu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-B49BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Rashadul-hub&label=Profile%20views&color=7042F8&style=flat-square" alt="Profile views" />
 <a href="https://github.com/Rashadul-hub?tab=followers"><img src="https://img.shields.io/github/followers/Rashadul-hub?label=Followers&style=flat-square&color=7042F8&labelColor=030014" alt="Followers" /></a>
 <a href="https://github.com/Rashadul-hub?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-60-7042F8?style=flat-square&labelColor=030014" alt="Repos" /></a>
-<img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-B49BFF?style=flat-square&labelColor=030014" alt="Location" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<!-- ═════════════ ABOUT ═════════════ -->
-<img align="right" width="320" src="https://user-images.githubusercontent.com/84420804/212734009-c30e8cab-46dc-4a22-ac56-b8cf4dde368f.gif" alt="coding" />
-
-### <img src="https://img.shields.io/badge/-%20-7042F8?style=flat-square" height="14"/> &nbsp;About me
+### <samp>ABOUT</samp>
 
 ```dart
 const rashadul = Developer(
@@ -47,14 +34,11 @@ const rashadul = Developer(
 
 <img src="https://img.shields.io/badge/-9CB2FF?style=flat-square&color=9CB2FF" height="10"/> &nbsp;Reach me at **rashadulislamhimu@gmail.com**
 
-<br clear="right"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
-
-<!-- ═════════════ TECH STACK ═════════════ -->
 <div align="center">
 
-### 🧰 &nbsp;Tech stack
+### <samp>TECH STACK</samp>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase&theme=dark" alt="Mobile stack" />
 <br>
@@ -62,10 +46,9 @@ const rashadul = Developer(
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<!-- ═════════════ PROJECTS ═════════════ -->
-### 🚀 &nbsp;Featured projects
+### <samp>FEATURED PROJECTS</samp>
 
 <table>
 <tr>
@@ -146,12 +129,11 @@ Responsive admin dashboard UI.
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<!-- ═════════════ STATS ═════════════ -->
 <div align="center">
 
-### 📊 &nbsp;GitHub analytics
+### <samp>GITHUB ANALYTICS</samp>
 
 <img width="82%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashadul-hub&theme=radical" />
 
@@ -167,23 +149,21 @@ Responsive admin dashboard UI.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<!-- ═════════════ SNAKE ═════════════ -->
 <div align="center">
 
-### 🐍 &nbsp;Contribution graph
+### <samp>CONTRIBUTION GRAPH</samp>
 
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Rashadul-hub/Rashadul-hub/output/github-snake-purple.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/Rashadul-hub/Rashadul-hub/output/github-snake-purple.svg" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E59CFF,50:BA9CFF,100:9CB2FF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="" />
 
-<!-- ═════════════ CONNECT ═════════════ -->
 <div align="center">
 
-### 🤝 &nbsp;Connect with me
+### <samp>CONNECT</samp>
 
 <a href="https://himu-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7042F8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030014" alt="Portfolio"></a>
 <a href="mailto:rashadulislamhimu@gmail.com"><img src="https://img.shields.io/badge/Email-B49BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014" alt="Email"></a>
@@ -191,10 +171,6 @@ Responsive admin dashboard UI.
 <a href="https://m.me/rashadulislam4"><img src="https://img.shields.io/badge/Messenger-9CB2FF?style=for-the-badge&logo=messenger&logoColor=white&labelColor=030014" alt="Messenger"></a>
 <a href="https://www.instagram.com/__himu_04/"><img src="https://img.shields.io/badge/Instagram-BA9CFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030014" alt="Instagram"></a>
 
-<br><br>
-
-<i>Thanks for stopping by — feel free to explore the repos and reach out.</i>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B49BFF,30:7042F8,65:2A0E61,100:030014&height=130&section=footer" alt="footer"/>
+<img width="100%" src="assets/footer.svg" alt="" />
